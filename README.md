@@ -15,8 +15,7 @@ A fun and interactive browser-based Spider-Man game where the player can swing a
 ---
 
 ## 📁 Project Structure
-Spider_man_game/
-│
+Spider_man_game
 ├── index.htm # Main game HTML file
 ├── spiderman-game.js # JavaScript logic for game mechanics
 ├── spiderman-game.css # Styling and animation
@@ -32,6 +31,7 @@ Spider_man_game/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/anushkarao12/Spider_man_game.git
+   ```
 2. **Open the game**:
 - Open index.htm in your browser.
 - Ensure that the audio and image folders are located in the same directory.
