@@ -16,13 +16,12 @@ A fun and interactive browser-based Spider-Man game where the player can swing a
 
 ## 📁 Project Structure
 Spider_man_game
-├── index.htm # Main game HTML file
-├── spiderman-game.js # JavaScript logic for game mechanics
-├── spiderman-game.css # Styling and animation
-│
-├── audio/ # Game sound effects
-├── fonts/ # Custom fonts
-└── images/ # Spider-Man graphics and background
+- index.htm # Main game HTML file
+- spiderman-game.js # JavaScript logic for game mechanics
+- spiderman-game.css # Styling and animation
+- audio/ # Game sound effects
+- fonts/ # Custom fonts
+- images/ # Spider-Man graphics and background
 
 ---
 
